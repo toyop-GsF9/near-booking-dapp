@@ -1,0 +1,1 @@
+{"rustc":17101774351297483375,"features":"","target":0,"profile":0,"path":0,"deps":[[11857825103694858054,"build_script_build",false,17599071096620454941]],"local":[{"RerunIfChanged":{"output":"release/build/serde-49b4c31e61e91c12/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
